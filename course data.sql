@@ -1,0 +1,10 @@
+insert into course(course_id,title,dept_name,credits)values(1,'digital electronics','EEE',3);
+insert into course(course_id,title,dept_name,credits)values(2,'theory of computation','CSE'3);
+insert into course(course_id,title,dept_name,credits)values(3,'database system','CSE',3);
+insert into course(course_id,title,dept_name,credits)values(4,'database design','CSE',3);
+insert into course(course_id,title,dept_name,credits)values(5,'web programming','ECE',3);
+insert into course(course_id,title,dept_name,credits)values(6,'formal language','ESE',3);
+insert into course(course_id,title,dept_name,credits)values(7,'discrete mathmatics','MTE',3);
+insert into course(course_id,title,dept_name,credits)values(8,'advanced programming','CSE',3);
+insert into course(course_id,title,dept_name,credits)values(9,'digital communications','EEE',3);
+insert into course(course_id,title,dept_name,credits)values(10,'digital electronics','EEE',3);
